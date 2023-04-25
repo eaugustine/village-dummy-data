@@ -1,7 +1,7 @@
 {
   "name": "Village Dummy Data",
   "identifier": "com.example.village-dummy-data",
-  "version": "1.0",
+  "version": "1.1",
   "description": "A Sketch plugin to supply dummy data for patients, facilities, teammates, and care activities.",
   "author": "Erica Augustine",
   "compatibleVersion": 3,
