@@ -1,0 +1,82 @@
+{
+  "name": "Village Dummy Data",
+  "identifier": "com.example.village-dummy-data",
+  "version": "1.0",
+  "description": "A Sketch plugin to supply dummy data for patients, facilities, teammates, and care activities.",
+  "author": "Erica Augustine",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "../Resources/icon.png",
+  "commands": [
+      {
+      "name": "Patients - Alphabetical",
+      "identifier": "supply-patients-data-alphabetical",
+      "script": "src/my-command.js",
+      "handler": "onSupplyPatientsDataAlphabetical"
+    },
+    {
+      "name": "Patients - Random",
+      "identifier": "supply-patients-data-random",
+      "script": "src/my-command.js",
+      "handler": "onSupplyPatientsDataRandom"
+    },
+    {
+      "name": "Facilities - Alphabetical",
+      "identifier": "supply-facilities-data-alphabetical",
+      "script": "src/my-command.js",
+      "handler": "onSupplyFacilitiesDataAlphabetical"
+    },
+    {
+      "name": "Facilities - Random",
+      "identifier": "supply-facilities-data-random",
+      "script": "src/my-command.js",
+      "handler": "onSupplyFacilitiesDataRandom"
+    },
+    {
+      "name": "Teammates - Alphabetical",
+      "identifier": "supply-teammates-data-alphabetical",
+      "script": "src/my-command.js",
+      "handler": "onSupplyTeammatesDataAlphabetical"
+    },
+    {
+      "name": "Teammates - Random",
+      "identifier": "supply-teammates-data-random",
+      "script": "src/my-command.js",
+      "handler": "onSupplyTeammatesDataRandom"
+    },
+    {
+      "name": "Care Activities - Alphabetical",
+      "identifier": "supply-care-activities-data-alphabetical",
+      "script": "src/my-command.js",
+      "handler": "onSupplyCareActivitiesDataAlphabetical"
+    },
+    {
+      "name": "Care Activities - Random",
+      "identifier": "supply-care-activities-data-random",
+      "script": "src/my-command.js",
+      "handler": "onSupplyCareActivitiesDataRandom"
+    },
+    {
+      "name": "About",
+      "identifier": "open-about-page",
+      "script": "src/my-command.js",
+      "handler": "onOpenAboutPage"
+    }
+  ],
+
+  "menu": {
+    "items": [
+      "supply-patients-data-alphabetical",
+      "supply-patients-data-random",
+      "supply-facilities-data-alphabetical",
+      "supply-facilities-data-random",
+      "supply-teammates-data-alphabetical",
+      "supply-teammates-data-random",
+      "supply-care-activities-data-alphabetical",
+      "supply-care-activities-data-random",
+      "-",
+      "open-about-page"
+    ]
+  }
+}
+

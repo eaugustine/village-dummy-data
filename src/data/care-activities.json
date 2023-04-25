@@ -1,0 +1,5292 @@
+[
+  {
+    "title": "Address medication management needs",
+    "cc": "Medication",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Address patient barriers to return to Home modality",
+    "cc": "Modality, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Administer empiric intraperitoneal (IP) antibiotic therapy per physician order",
+    "cc": "Infection & Vaccination, Modality",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Assess changes in social environment",
+    "cc": "Access, Care Coordination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "AA, FA, MSW, RN, PCT, RD, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Assess exit site for signs and symptoms of infection",
+    "cc": "Psychosocial",
+    "cc1": "Modality",
+    "cc2": "Infection & Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Assess for psychosocial needs impacting overall care",
+    "cc": "Modality, Infection & Vaccination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Assist patient with understanding employment benefits",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "Rehabilitation",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Assist with insurance related needs",
+    "cc": "Psychosocial, Rehabilitation",
+    "cc1": "Care Coordination",
+    "cc2": "Psychosocial",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Assist with Patient Financial Evaluation (PFE)",
+    "cc": "Care Coordination, Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Change peritoneal dialysis (PD) adapter",
+    "cc": "Psychosocial",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Collect peritoneal dialysis (PD) effluent sample per physician order",
+    "cc": "Access",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Communicate with transplant center regarding patient",
+    "cc": "Infection & Vaccination, Modality",
+    "cc1": "Transplant",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Complete HHD training per physician order",
+    "cc": "Transplant, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": "HHD Admission"
+  },
+  {
+    "title": "Complete medication reconciliation",
+    "cc": "Modality",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Complete PD training per physician order",
+    "cc": "Medication",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct Motivational Interviewing",
+    "cc": "Modality",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct suicide risk evaluation",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Contact adult protective services",
+    "cc": "Psychosocial, Health Maintenance & Safety",
+    "cc1": "Psychosocial",
+    "cc2": "Health Maintenance & Safety",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Contact child protective services",
+    "cc": "Psychosocial, Health Maintenance & Safety",
+    "cc1": "Psychosocial",
+    "cc2": "Health Maintenance & Safety",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Contact patient",
+    "cc": "General",
+    "cc1": "General",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate Care Conference",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate first home treatment",
+    "cc": "General, Modality",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate home health referral with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Modality",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate home modality retraining",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate Home Nurse home nurse consultation",
+    "cc": "Modality, Home Environment",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Modality Choice"
+  },
+  {
+    "title": "Coordinate home supplies",
+    "cc": "Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Home Environment",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate patient needs as appropriate",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to cardiologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to dentist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to endocrinologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to gastroenterologist",
+    "cc": "Anemia, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to hematologist",
+    "cc": "Infection & Vaccination, Care Coordination",
+    "cc1": "Anemia",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to infectious disease specialist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to mental health provider",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to neurologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to oncologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to ophthalmologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to optometrist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to orthopedist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to PCP",
+    "cc": "Rehabilitation, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to physical therapist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Rehabilitation",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to podiatrist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to pulmonologist",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to rheumatologist",
+    "cc": "Medication, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to specialized pharmacy",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Medication",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to urologist",
+    "cc": "Access, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to vascular surgeon",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate physician's referral to wound care center",
+    "cc": "Access, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate referral to access center",
+    "cc": "Modality",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate training and home evaluation needs",
+    "cc": "Care Coordination",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": "HHD Admission"
+  },
+  {
+    "title": "Coordinate with facility providing care for patient (hospital, SNF, rehab, jail, etc.)",
+    "cc": "General",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate with Insurance Management Team (IMT) for assistance with insurance needs to overcome insurance barriers",
+    "cc": "Transplant, Care Coordination",
+    "cc1": "General",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Coordinate with transplant center regarding patient's status",
+    "cc": "Access, Psychosocial",
+    "cc1": "Transplant",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Counsel patient regarding anxiety with cannulation on needle phobia",
+    "cc": "Access, Psychosocial",
+    "cc1": "Access",
+    "cc2": "Psychosocial",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Counsel patient regarding on body image concerns",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Access",
+    "cc2": "Psychosocial",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Carpet edges should be secured. Throw rugs are discouraged, but if used they need to have a nonslip surface",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Communicate Critical Fall Risk to all team members",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Consult with physician on poly-pharmacy, rehab service, lab, and comorbidities",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Educate patient and care partners on risk factors and prevention",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Escort patient to and from dialysis chair. Offer wheelchair and document any type of refusal",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Home visit recommended",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: If assistance devices such as cane, walker, wheelchair, etc. are used, keep within reach, but not in main traffic area",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: If grab bars are being used, be sure they are firmly attached",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: If patient requires assistance to bathroom, stay with patient providing privacy as indicated",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Keep home hallways free of boxes, supplies or obstacles",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Keep room lighting adequate",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Keep spills wiped up and floor free of debris",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Critical Fall Precaution: Pathway to bathroom should be unobstructed. Secure equipment and cords out of pathway",
+    "cc": "Psychosocial",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Demonstrate deep breathing/visualization",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Demonstrate mindfulness activities",
+    "cc": "Modality",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Develop Return to Home plan",
+    "cc": "Adequacy, Access",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss access function with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Fluid & Blood Pressure, Adequacy",
+    "cc1": "Adequacy",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss additional day of dialysis with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Advance Care Plan",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss advance care plan planning",
+    "cc": "Advance Care Plan",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss advance care plan planning with care partner(s)",
+    "cc": "Advance Care Plan",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss advance care plan with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss antifungal prophylaxis with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
+    "cc": "Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss behavioral activation",
+    "cc": "Fluid & Blood Pressure, Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss blood pressure medications with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Adequacy",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss calcium bath order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Adequacy",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss calcium supplement order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Advance Care Plan",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss change in health condition with care partner(s)",
+    "cc": "Psychosocial",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss communication skills",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss coping thoughts",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss decision making capacity with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss diabetic wound care with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss diet order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss Distress Thermometer results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss electrolyte imbalance with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss exit site culture results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Anemia, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss ferritin lab results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss gastrointestinal (GI) bleed with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "Anemia",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss gastrointestinal (GI) concerns with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss goal (courage) ladder",
+    "cc": "Anemia, Adequacy",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss hemoglobin lab results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss heparin with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Anemia",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss hepatitis lab results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Advance Care Plan",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss homework materials",
+    "cc": "Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss hospice eligibility with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss IDPN/IPN with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss impact of current treatment prescription on blood pressure with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss initiation and/or dose change of calcimimetics with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss initiation and/or dose change of Parsabiv with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition, Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss initiation and/or dose change of vitamin D with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss initiation of kidney-friendly vitamin with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia, Medication",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss iron levels with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss iron supplements with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia, Medication",
+    "cc1": "Anemia",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss KDQOL results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss medications related to anemia with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Anemia",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss medications with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss microbiology culture results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Adequacy",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss mineral and bone disorder (MBD) management with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Adequacy Management protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination, Medication",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Antibiotic Stewardship protocol with nephrologist /non-physician practitioner (NPP)",
+    "cc": "Nutrition, Medication",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for antibiotics with nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
+    "cc": "Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for appetite stimulant with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for barium swallow with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination, Comorbidities",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Calcimimetic protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition, Health Maintenance & Safety",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for chest x-ray (CXR) with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Adequacy",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Comorbidities",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for exercise program with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Nutrition",
+    "cc2": "Health Maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Heparin protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Hepatitis B surveillance with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Home Environment/Modality",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Hepatitis C Surveillance protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Access, Adequacy, Modality",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for home environment evaluation with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Home Environment",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for intraperitoneal (IP) heparin with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
+    "cc": "Medication/Anemia",
+    "cc1": "Access",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for IronWorks protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "General",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for kidney-friendly vitamins with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities",
+    "cc1": "Medication",
+    "cc2": "Anemia",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for lab order(s) with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "General",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for laxatives/stool softeners with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for MBD Labs protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition, Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for microbiology culture(s) with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
+    "cc": "Nutrition, Medication",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for multivitamins with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for ONS protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Adequacy/Modality",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for pain management with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
+    "cc": "Infection & Vaccination, Medication",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for peritoneal equilibration test (PET) with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination, Medication",
+    "cc1": "Adequacy",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for pneumococcal vaccination order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for Prevnar vaccination order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for SHAPE protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Care Coordination",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for surgical evaluation with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for treatment order and prescription changes with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for tuberculosis (TB) test with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Access, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss need for vitamin D protocol with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to access center with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to cardiologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to dentist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to endocrinologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Care Coordination, Anemia",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to gastroenterologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Infection & Vaccination, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to hematologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination, Psychosocial",
+    "cc1": "Care Coordination",
+    "cc2": "Anemia",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to infectious disease specialist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to mental health provider with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to neurologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to oncologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to ophthalmologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to optometrist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Rehabilitation, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to orthopedist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, RD, MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to physical therapist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Rehabilitation",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to podiatrist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to primary care physician (PCP) with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to pulmonologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Medication, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to rheumatologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Transplant, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to specialized pharmacy with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Transplant, Care Coordination",
+    "cc1": "Medication",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to transplant center with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Transplant",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to transplant coordinator with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Access/ Care Coordination",
+    "cc1": "Transplant",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to urologist with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to vascular surgeon with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Care Coordination/Nutrition",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss obtaining a referral to wound care center with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss patient's management of diabetes with endocrinologist",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss patient's management of diabetes with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss patient's readiness for change",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss patient's strengths and coping strategies",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss phosphorus binders with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss PHQ-9 results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Adequacy, Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss poly-pharmacy with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition, Medication",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss potassium bath order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Nutrition",
+    "cc1": "Adequacy",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss potassium-related medications or supplements with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Fluid & Blood Pressure, Medication",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss potential bicarbonate adjustment with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Health Maintenance & Safety, Comorbidities",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss potential role of diuretics, ACE inhibitors and ARBs with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial, Care Coordination",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss primary care needs with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Fluid & Blood Pressure, Adequacy",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "Comorbidities",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss referral to mental health provider with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Psychosocial",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss residual kidney functioning with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial, Health Maintenance & Safety",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss reticulocyte count lab results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss smoking cessation with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Psychosocial",
+    "cc2": "Health Maintenance & Safety",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss stop and distract materials",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss target weight with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss the cognitive triangle",
+    "cc": "Anemia",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss the discontinuation of sodium modeling with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Anemia",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss the emotion wheel",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss the exception question",
+    "cc": "Adequacy",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss the miracle question",
+    "cc": "General",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss thought diagram",
+    "cc": "Adequacy, Fluid/BP",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss transferrin saturation (TSAT) lab results with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Medication",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss transfusion options with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Advance Care Plan",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss treatment order related to fluid with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Access",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss treatment order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Adequacy, Access",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss treatment schedule options",
+    "cc": "Access, Infection & Vaccination",
+    "cc1": "General",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Discuss treatment time/frequency with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Health maintenance & Safety",
+    "cc1": "Adequacy",
+    "cc2": "Fluid & Blood Pressure",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, RD, MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Educate care partner on medication management",
+    "cc": "Rehabilitation",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate care partner on state specific state-specific advance care plan processes and documents",
+    "cc": "Adequacy",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate Explore patient's on personal priorities/goals",
+    "cc": "Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on access care",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on access function",
+    "cc": "Psychosocial",
+    "cc1": "Adequacy",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on access infection prevention",
+    "cc": "Anemia",
+    "cc1": "Access",
+    "cc2": "Infection & Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD , RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on acute kidney injury (AKI) diagnosis",
+    "cc": "Infection & Vaccination, Access",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on ADA support from Department of Labor",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Rehabilitation",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on adequate dialysis",
+    "cc": "Adequacy",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on adequate protein intake",
+    "cc": "Transplant",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on adhering to prescribed dialysis treatment",
+    "cc": "Transplant",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on adjusting to dialysis",
+    "cc": "Access, Infection & Vaccination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on anemia management",
+    "cc": "Infection & Vaccination, Access",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on arteriovenous fistula/graft (AVF/AVG) care",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on assistive equipment (cane, walker, wheelchair, velcro shoes, etc.)",
+    "cc": "Adequacy",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on barriers to completing prescribed treatment",
+    "cc": "Access, Adequacy",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on barriers to transplant",
+    "cc": "Access",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on benefits of a transplant",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on buttonhole technique",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Access",
+    "cc2": "Infection & Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on central venous catheter (CVC) care",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on change in dextrose solution concentration",
+    "cc": "Comorbidities, Nutrition, Medication",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on current dialysis prescription",
+    "cc": "Rehabilitation",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on CVC to AVF/AVG process and benefits",
+    "cc": "Medication, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on CVC to PDC process and benefits",
+    "cc": "Nutrition",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on daily weight monitoring process",
+    "cc": "Nutrition",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on diabetic diet",
+    "cc": "Comorbidities",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on diabetic foot care",
+    "cc": "Comorbidities, Anemia",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on diabetic medications",
+    "cc": "Infection & Vaccination",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on discussing medications with outside providers",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Medication",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on Emergency Diet",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, RD, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on factors that could impact nutrition status",
+    "cc": "Mineral and Bone Disorder, Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on gastrointestinal (GI) issues",
+    "cc": "Modality",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on GI bleed",
+    "cc": "Nutrition",
+    "cc1": "Comorbidities",
+    "cc2": "Anemia",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on handwashing/hygiene",
+    "cc": "Fluid & Blood Pressure, Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on health risks of fluid overload",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on high blood pressure",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on high phosphorus foods",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on home administration of medications",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on how to adjust strength of dextrose solution",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on how to increase dietary fiber intake",
+    "cc": "Comorbidities",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on how to manage fluid and blood pressure",
+    "cc": "Care Coordination, Health Maintenance & Safety",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Psychosocial",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on hypercalcemia",
+    "cc": "Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on hyperphosphatemia",
+    "cc": "Infection & Vaccination",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on hypocalcemia",
+    "cc": "Infection & Vaccination",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on hypoparathyroidism",
+    "cc": "Care Coordination, Psychosocial",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on hypophosphatemia",
+    "cc": "General",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on importance of annual eye exam",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on importance of having a primary care physician",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "MSW RN",
+    "tm": "",
+    "sRole": "RN, RD, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on importance of medication adherence",
+    "cc": "Mineral and Bone Disorder, Nutrition",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on infection management",
+    "cc": "Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on influenza vaccination",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on insurance resources",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Care Coordination",
+    "cc2": "Psychosocial",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on kidney diet",
+    "cc": "Psychosocial",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on lab results",
+    "cc": "Fluid & Blood Pressure, Medication",
+    "cc1": "General",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, RD, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on local housing resources",
+    "cc": "Fluid & Blood Pressure, Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, RD, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on low blood pressure",
+    "cc": "Medication",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on low phosphorus foods",
+    "cc": "Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on managing anxiety",
+    "cc": "Anemia, Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD , RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on managing constipation",
+    "cc": "Comorbidities, Nutrition, Medication",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on managing diarrhea",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on managing stress",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medication administration effect on blood pressure",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medication administration effect on fluid",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medication management",
+    "cc": "Nutrition",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medication side effects",
+    "cc": "Nutrition",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medications",
+    "cc": "Nutrition",
+    "cc1": "Anemia",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medications impacting appetite and GI",
+    "cc": "Medication",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medications impacting calcium",
+    "cc": "Medication, Comorbidities",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medications impacting parathyroid hormone (PTH)",
+    "cc": "Infection & Vaccination, Access",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on medications impacting phosphorus",
+    "cc": "Access, Infection & Vaccination",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on monitoring blood glucose",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on non-nutritional factors affecting albumin levels",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on nutrition resources",
+    "cc": "Infection & Vaccination",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on oral nutrition supplement (ONS)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on over-the-counter medications",
+    "cc": "Infection & Vaccination, Modality",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on pain management",
+    "cc": "Psychosocial",
+    "cc1": "Medication",
+    "cc2": "Comorbidities",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on peritoneal dialysis catheter (PDC) care",
+    "cc": "Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on permanent access placement",
+    "cc": "Health Maintenance & Safety, Home Environment/ Modality",
+    "cc1": "Access",
+    "cc2": "Infection & Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN, VHCC, VHN, VHNP",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Educate patient on phosphorus binders",
+    "cc": "Psychosocial, Adequacy, Fluid & Blood Pressure",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on pneumococcal vaccination",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on Prevnar vaccination",
+    "cc": "Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on reducing risk for peritonitis at home",
+    "cc": "Nutrition",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on regarding vocational rehabilitation resources",
+    "cc": "Nutrition",
+    "cc1": "Rehabilitation",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on relationships and support services",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on relaxation techniques",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on resources available for home improvement",
+    "cc": "Psychosocial",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "Home Environment",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on risks associated with missed/shortened treatments",
+    "cc": "Infection & Vaccination",
+    "cc1": "Psychosocial",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on risks of high Hgb A1c and proper management",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on risks of high potassium",
+    "cc": "Mineral and Bone Disorder, Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on risks of low albumin",
+    "cc": "Advance Care Plan",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on risks of low potassium",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on routine diabetes care",
+    "cc": "Nutrition",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on secondary hyperparathyroidism",
+    "cc": "Nutrition",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on self care self-care strategies",
+    "cc": "Transplant",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on signs and symptoms of sepsis",
+    "cc": "Transplant",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on sodium and fluid allowance",
+    "cc": "Psychosocial",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on sources of calcium in diet",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on state specific state-specific advance care plan processes and documents",
+    "cc": "Care Coordination, Health Maintenance & Safety",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on strength and balance exercises",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on the importance of exercise",
+    "cc": "Rehabilitation",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on the risks associated with malnutrition",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on transplant list status",
+    "cc": "Nutrition",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on transplant process",
+    "cc": "Nutrition",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on transportation resources",
+    "cc": "Nutrition",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on types of disability benefits/FMLA",
+    "cc": "Advance Care Plan",
+    "cc1": "Rehabilitation",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on ultrafiltration rate (UFR)",
+    "cc": "Access",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on underlying cause of hospitalization",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on use of glucometer and glucometer check",
+    "cc": "Access, Adequacy",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on ways to reduce cramping",
+    "cc": "Fluid & Blood Pressure, Medications",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on weight gain",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on weight loss",
+    "cc": "Adequacy",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient on weight management",
+    "cc": "Health Maintenance & Safety, Home Environment/Modality",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient/care partner(s) on hospice and palliative care treatment options",
+    "cc": "Adequacy",
+    "cc1": "Advance Care Plan",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Educate patient/caregiver/care partner on securing the PD catheter and transfer set",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate 24 hour urine",
+    "cc": "Nutrition",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate access function",
+    "cc": "Adequacy",
+    "cc1": "Access",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate access to medications",
+    "cc": "Nutrition",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medications",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate appetite/adequacy of intake",
+    "cc": "Adequacy/Modality",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate barriers to completing prescribed treatment",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate barriers to starting/maintaining home therapy",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "Home Environment",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate blood flow rate (BFR)",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate blood pressure trends",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate complete blood count (CBC) lab results",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate dialysate bath prescription",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate dialyzer",
+    "cc": "Nutrition",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate diet order",
+    "cc": "Comorbidities, Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate draining issues and alarms",
+    "cc": "Mineral and Bone Disorder",
+    "cc1": "Adequacy",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hypercalcemia",
+    "cc": "Anemia",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hyperparathyroidism",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hyperphosphatemia",
+    "cc": "Access",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hypocalcemia",
+    "cc": "Access",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hypoparathyroidism",
+    "cc": "Nutrition",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to hypophosphatemia",
+    "cc": "Transplant",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to low albumin",
+    "cc": "Infection & Vaccination, Modality",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to out of range A1c",
+    "cc": "Health Maintenance & Safety, Care Coordination/Rehabilitation",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate factors contributing to out of range parathyroid hormone (PTH)",
+    "cc": "Modality",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate ferritin lab results",
+    "cc": "Comorbidities",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate fluid status",
+    "cc": "Anemia",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for arteriovenous fistula (AVF) maturation and readiness to cannulate",
+    "cc": "Anemia, Adequacy",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for arteriovenous graft (AVG) healing and readiness to cannulate",
+    "cc": "Anemia, Adequacy",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Evaluate for barriers to diet adherence",
+    "cc": "Anemia, Modality/Medication",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for barriers to transplant",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for catheter contamination",
+    "cc": "Anemia, Medication",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for durable medical equipment (DME) needs",
+    "cc": "Medication/Fluid & Blood Pressure",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for signs/symptoms of peritonitis",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate for treatment modality",
+    "cc": "Fluid & Blood Pressure, Medication",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate gastrointestinal (GI) status",
+    "cc": "Infection & Vaccination, Medications",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate hemoglobin lab results",
+    "cc": "Nutrition, Medication",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate heparin alternatives",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Anemia",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate heparin order",
+    "cc": "Nutrition",
+    "cc1": "Anemia",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate home supply of ESA",
+    "cc": "Nutrition, Medication",
+    "cc1": "Anemia",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of calcimimetics on parathyroid hormone (PTH)",
+    "cc": "Mineral and Bone Disorder, Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on anemia",
+    "cc": "Infection & Vaccination",
+    "cc1": "Anemia",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on blood pressure",
+    "cc": "Anemia",
+    "cc1": "Medication",
+    "cc2": "Fluid & Blood Pressure",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on calcium",
+    "cc": "Medication",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on fluid",
+    "cc": "Infection & Vaccination",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Medication",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on infection",
+    "cc": "Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Medications",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on phosphorus",
+    "cc": "Modality/General",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of medications on potassium",
+    "cc": "Fluid & Blood Pressure, Modality, Adequacy",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of oral nutrition supplement (ONS)",
+    "cc": "Modality, Home Environment",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of supplements on potassium",
+    "cc": "Adequacy/Modality",
+    "cc1": "Nutrition",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate impact of vitamin D on parathyroid hormone (PTH)",
+    "cc": "Nutrition",
+    "cc1": "Mineral and Bone Disorder",
+    "cc2": "Medication",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate infection history",
+    "cc": "Fluid & Blood Pressure, Modality",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate iron levels",
+    "cc": "Adequacy, Access",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate medications that may cause gastrointestinal (GI) distress",
+    "cc": "Nutrition, Infection & Vaccination",
+    "cc1": "Medication",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate microbiology results",
+    "cc": "Fluid & Blood Pressure/Comorbidities",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate motivation or willingness to achieve treatment goals",
+    "cc": "Adequacy",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for change in PD prescription",
+    "cc": "Infection & Vaccination, Psychosocial",
+    "cc1": "Modality",
+    "cc2": "General",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for change in PD solution",
+    "cc": "Anemia",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for home visit",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "Home Environment",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for icodextrin",
+    "cc": "Fluid & Blood Pressure, Modality, Adequacy",
+    "cc1": "Adequacy",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for IDPN/IPN",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate need for repeat peritoneal equilibration test (PET)",
+    "cc": "Nutrition",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate needle size",
+    "cc": "Anemia",
+    "cc1": "Adequacy",
+    "cc2": "Access",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate nutritional needs related to infection",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Nutrition",
+    "cc2": "Infection & Vaccination",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Evaluate oxygen saturation",
+    "cc": "Modality, Home Environment",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Comorbidities",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate prescribed Kt/V",
+    "cc": "Fluid & Blood Pressure/Nutrition",
+    "cc1": "Adequacy",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate psychosocial needs related to infection",
+    "cc": "Modality",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Psychosocial",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate reticulocyte count lab results",
+    "cc": "Fluid & Blood Pressure",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate Return to Home plan",
+    "cc": "Psychosocial General",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate shortened/missed PD treatment(s)",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate sodium and fluid intake",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate tolerance of oral nutrition supplement (ONS)",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate transferrin saturation (TSAT) lab results",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate treatment order related to fluid",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate vendor status",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "Home Environment",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate weight (pre/post-weight, target weight, body weight)",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate whether patient is a candidate for PD/HHD",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Explore scheduling options to address fluid status with patient",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Explore transportation needs with patient",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "General",
+    "cc2": "",
+    "role": "AA",
+    "tm": "",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for arteriovenous fistula/graft (AVF/G) intervention",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for central venous catheter (CVC) evaluation",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for central venous catheter (CVC) intervention",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for fistula cannulation",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for other provider",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for peritoneal dialysis catheter (PDC) intervention",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for peritoneal dialysis catheter (PDC) placement evaluation",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for surgical evaluation",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of appointment for vessel mapping",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of arteriovenous fistula (AVF) maturation ultrasound",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Follow up on outcome of arteriovenous fistula/graft (AVF/G) evaluation",
+    "cc": "Same as corresponding Appt CA",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of arteriovenous fistula/graft (AVF/G) surgery",
+    "cc": "Psychosocial",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of central venous catheter (CVC) removal",
+    "cc": "Psychosocial",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of endocrinology appointment",
+    "cc": "General, Modality",
+    "cc1": "Anemia",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of eye exam",
+    "cc": "General, Modality",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of gastrointestinal (GI) appointment",
+    "cc": "Access",
+    "cc1": "Infection & Vaccination",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "PCT, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of peritoneal dialysis catheter (PDC) surgery",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "Infection & Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of permanent access pre-op evaluation",
+    "cc": "Modality",
+    "cc1": "Access",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of permanent access surgery",
+    "cc": "Modality",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, LPN/LVN, MSW, PCT, RD, RN, Modality Educator",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of podiatry appointment",
+    "cc": "Modality",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, AA, FA, LPN/LVN, PCT, Modality Educator",
+    "pathway": ""
+  },
+  {
+    "title": "Follow up on outcome of post-operative maturation ultrasound",
+    "cc": "Infection & Vaccination, Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Guide body scan",
+    "cc": "Care Coordination",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Guide container visualization",
+    "cc": "Infection & Vaccination",
+    "cc1": "Psychosocial",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Guide patient in calm place visualization",
+    "cc": "Anemia",
+    "cc1": "Psychosocial",
+    "cc2": "Rehabilitation",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN, PM",
+    "pathway": ""
+  },
+  {
+    "title": "Home Visit-HHD",
+    "cc": "Comorbidities",
+    "cc1": "Psychosocial",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "HHD Admission"
+  },
+  {
+    "title": "Home Visit-PD",
+    "cc": "Infection & Vaccination, Modality, Access",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Initiate cannulation",
+    "cc": "Modality, Infection & Vaccination/Health Maint. & Safety",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "PCT",
+    "tm": "Etzio Auditore, PCT",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Initiate home modality retraining per nurse discretion and physician order-HHD",
+    "cc": "Access/Modality",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Initiate home modality retraining per nurse discretion and physician order-PD",
+    "cc": "General, Modality",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Initiate modality choice discussion",
+    "cc": "General, Modality",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": "Modality Choice"
+  },
+  {
+    "title": "Initiate modality specific discussion",
+    "cc": "Modality",
+    "cc1": "Psychosocial",
+    "cc2": "Rehabilitation",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Modality Choice"
+  },
+  {
+    "title": "Observe CAPD exchange with intraperitoneal (IP) antibiotic for self-administration",
+    "cc": "Modality",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Obtain and review discharge paperwork",
+    "cc": "Psychosocial, Care Coordination",
+    "cc1": "Psychosocial",
+    "cc2": "Rehabilitation",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Obtain consent and physician's order for influenza vaccine",
+    "cc": "Psychosocial, Rehabilitation",
+    "cc1": "Care Coordination",
+    "cc2": "Health maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Patient non-responsive to ESA. Evaluate hemoglobin, retic count, iron labs, and ESA order with nephrologist/non-physician practitioner (NPP)",
+    "cc": "Psychosocial, Care Coordination",
+    "cc1": "Rehabilitation",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Perform foot check",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Perform peritoneal dialysis catheter (PDC) lavage/therapeutic exchange",
+    "cc": "Psychosocial",
+    "cc1": "Care Coordination",
+    "cc2": "Health Maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Perform sterile dressing change",
+    "cc": "Psychosocial",
+    "cc1": "Care Coordination",
+    "cc2": "Health maintenance & Safety",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Perform transfer set change per policy",
+    "cc": "Care Coordination/Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "Psychosocial",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Phone Call-HHD",
+    "cc": "Care Coordination/Health Maintenance & Safety/Rehabilitation",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Phone Call-PD",
+    "cc": "Psychosocial, Rehabilitation/Health Maintenance & Safety",
+    "cc1": "Psychosocial",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide first HHD training per physician order",
+    "cc": "Care Coordination/Health maintenance & Safety",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW",
+    "pathway": "HHD Admission"
+  },
+  {
+    "title": "Provide first PD training per physician order",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on adult protective services",
+    "cc": "Psychosocial, Rehabilitation",
+    "cc1": "Psychosocial",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on advocacy resources",
+    "cc": "Psychosocial, Care Coordination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on child protective services",
+    "cc": "Care Coordination/Health maintenance & Safety/Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on federal psychosocial resources",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on local psychosocial resources",
+    "cc": "Rehabilitation, Care Coordination/Health Maintenance & Safety",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide information on state psychosocial resources",
+    "cc": "Psychosocial",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of health care proxies",
+    "cc": "Care Coordination/Health Maintenance & Safety/Rehabilitation",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on home health facilities",
+    "cc": "Care Coordination/Health maintenance & Safety/Psychosocial",
+    "cc1": "Modality",
+    "cc2": "Access",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on home health resources",
+    "cc": "Health Maintenance & Safety/Psychosocial, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Infection & Vaccination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on hospice care centers",
+    "cc": "Nutrition",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on outside community health resources",
+    "cc": "Psychosocial, Care Coordination",
+    "cc1": "Infection & Vaccination",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on resources for drug/alcohol substance abuse treatment",
+    "cc": "Psychosocial",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on resources for obtaining durable medical equipment (DME)",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on respite care resources",
+    "cc": "Care Coordination",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on skilled nursing facilities (SNF)",
+    "cc": "Transplant",
+    "cc1": "Comorbidities",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on smoking cessation centers",
+    "cc": "Modality, Access",
+    "cc1": "Care Coordination",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of information on substance use resources",
+    "cc": "Modality, Infection & Vaccination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of nutrition resources",
+    "cc": "Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "AA, MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of outside community mental health resources",
+    "cc": "Infection & Vaccination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide list of resources for obtaining a glucometer",
+    "cc": "Modality",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide oral nutrition supplement (ONS) allocation for home use per physician order",
+    "cc": "Comorbidities",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide PHQ-9 results for coordination of care",
+    "cc": "Psychosocial",
+    "cc1": "General",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Provide PHQ-9 results to mental health provider",
+    "cc": "Comorbidities",
+    "cc1": "Access",
+    "cc2": "Modality",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Provide pros and cons exercise",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Modality",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Provide supportive counseling",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Provide values activity",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Refer to insurance case manager",
+    "cc": "Comorbidities, Nutrition, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Refer to transplant center",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Remind patient to complete PD catheter flush",
+    "cc": "General, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Remind patient to complete weekly mini cap change",
+    "cc": "Access, Modality, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Request discharge report from the hospital",
+    "cc": "Access, Modality, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review hepatitis lab results",
+    "cc": "Access, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review importance of bowel regimen",
+    "cc": "Access, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review KDQOL survey results",
+    "cc": "Access, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Care Coordination",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review Planning for Success at Home",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Modality",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review problem list",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Review transition of care (TOC) process",
+    "cc": "Access, Care Coordination",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for arteriovenous fistula/graft (AVF/G) intervention",
+    "cc": "Modality, Care Coordination",
+    "cc1": "Comorbidities",
+    "cc2": "Nutrition",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for central venous catheter (CVC) evaluation",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for central venous catheter (CVC) intervention",
+    "cc": "Comorbidities, Nutrition, Care Coordination",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for eye exam",
+    "cc": "Comorbidities, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for fistula cannulation",
+    "cc": "Access, Modality, Care Coordination",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for other provider",
+    "cc": "Access",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for peritoneal dialysis catheter (PDC) intervention",
+    "cc": "Access",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for peritoneal dialysis catheter (PDC) placement evaluation",
+    "cc": "Comorbidities, Nutrition, Care Coordination",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for surgical evaluation",
+    "cc": "Modality",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule appointment for vessel mapping",
+    "cc": "Modality, Care Coordination",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule arteriovenous fistula (AVF) maturation ultrasound",
+    "cc": "Access, Care Coordination",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule arteriovenous fistula/graft (AVF/G) evaluation",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule arteriovenous fistula/graft (AVF/G) surgery",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Health Maintenance & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule central venous catheter (CVC) removal",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, VHN, VHNP",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule clinic visit within 48 hours",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "General",
+    "cc2": "Modality",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule clinic visit within 48 hours of discharge",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "Access",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule endocrinology appointment",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "General",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule gastrointestinal (GI) appointment",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule peritoneal dialysis catheter (PDC) surgery",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule permanent access pre-op evaluation",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Schedule permanent access surgery",
+    "cc": "General, Modality",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Schedule podiatry appointment",
+    "cc": "General, Modality",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule post-hospitalization home retraining(s) per physician order",
+    "cc": "Access, Care Coordination",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule post-operative maturation ultrasound",
+    "cc": "General",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "AA, RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Schedule post-surgery visit with PD nurse",
+    "cc": "Modality, Care Coordination",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Answer call light promptly",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Document instructions and patient response",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Educate patient/care partners related to fall risk factors/prevention strategy",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Environment free of obstacles",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Furniture locked/stabilized",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: If call light available, keep within reach",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Keep personal items within reach",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Orient to environment",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Standard Fall Precaution: Place patient close to nursing station",
+    "cc": "Health Maintenance & Safety",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Telehealth Visit-HHD",
+    "cc": "General, Modality",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Telehealth Visit-PD",
+    "cc": "General, Modality",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": ""
+  },
+  {
+    "title": "Verify CVC is removed",
+    "cc": "Access, Care Coordination",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Verify insurance",
+    "cc": "General",
+    "cc1": "",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "",
+    "pathway": "HHD Admission"
+  },
+  {
+    "title": "Conduct PHQ-9 Depression Screen",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, VHN IKC_RN",
+    "pathway": "Social Work Counseling"
+  },
+  {
+    "title": "Conduct KDQOL",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct Target Weight Assessment",
+    "cc": "Fluid & Blood Pressure, Adequacy",
+    "cc1": "Fluid & Blood Pressure",
+    "cc2": "Adequacy",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct Fall Risk and Mobility Assessment",
+    "cc": "Health Maint & Safety",
+    "cc1": "Health Maint & Safety",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct Match-D PD or HHD",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "FA",
+    "tm": "Jill Valentine, FA",
+    "sRole": "FA, RD,MSW, RN, LPN/LVN, ROD, PCT, MODEDU, MSW_GS",
+    "pathway": "Annual Modality Choice"
+  },
+  {
+    "title": "Conduct Distress Thermometer",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RD, RN, PCT, VHCC, VHN, VHNP IKC_CC, IKC_RN, LPN/LVN, MSW_GS",
+    "pathway": "Social Work Counseling"
+  },
+  {
+    "title": "Conduct General Modality Education",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": "Modality Choice"
+  },
+  {
+    "title": "Document PD Loss Assessment",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN",
+    "pathway": ""
+  },
+  {
+    "title": "Document Patient Decision",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "FA",
+    "tm": "Jill Valentine, FA",
+    "sRole": "AA, FA, RN, LPN/LVN, ROD, MSW, PCT, RD, MODEDU, MSW_GS",
+    "pathway": "Annual Modality Choice"
+  },
+  {
+    "title": "Document Transplant Assessment",
+    "cc": "Transplant",
+    "cc1": "Transplant",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW, RN",
+    "pathway": ""
+  },
+  {
+    "title": "Hepatitis B Status Unknown",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Evaluate Vocational Rehabilitation Status",
+    "cc": "Rehabilitation",
+    "cc1": "Rehabilitation",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct SGA/MIS",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct social work counseling session",
+    "cc": "Psychosocial",
+    "cc1": "Psychosocial",
+    "cc2": "",
+    "role": "MSW",
+    "tm": "Cereza Bayonetta, MSW",
+    "sRole": "MSW",
+    "pathway": "Social Work Counseling"
+  },
+  {
+    "title": "Start Smart Welcome",
+    "cc": "Modality",
+    "cc1": "Modality",
+    "cc2": "",
+    "role": "AA",
+    "tm": "Mario DiFungo, AA",
+    "sRole": "AA, MSW, RN, RD, FA, PCT, LPN/LVN, ROD, MODEDU, MSW_GS",
+    "pathway": "Modality Choice"
+  },
+  {
+    "title": "Diet Order Review",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD",
+    "pathway": ""
+  },
+  {
+    "title": "Conduct Appetite GI Assessment",
+    "cc": "Nutrition",
+    "cc1": "Nutrition",
+    "cc2": "",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD",
+    "pathway": ""
+  },
+  {
+    "title": "Peritonitis Assessment",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Peritoneal Dialysis (PD) Technique Assessment",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Peritonitis Patient Interview",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Peritonitis Event Summary",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": "Peritonitis"
+  },
+  {
+    "title": "Blood Stream Infection (BSI) Assessment",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  },
+  {
+    "title": "Verify access placement",
+    "cc": "Access",
+    "cc1": "Access",
+    "cc2": "",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN, PCT, MSW, RD, AA, FA",
+    "pathway": "Access Placement and CVC Removal"
+  },
+  {
+    "title": "Diabetes Assessment",
+    "cc": "Nutrition, Comorbidities",
+    "cc1": "Nutrition",
+    "cc2": "Comorbidities",
+    "role": "RD",
+    "tm": "Arthur Morgan, RD",
+    "sRole": "RD",
+    "pathway": ""
+  },
+  {
+    "title": "Document Tuberculosis Risk Appraisal Questionnaire (TB-RAQ)",
+    "cc": "Infection & Vaccination",
+    "cc1": "Infection",
+    "cc2": "Vaccination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "RN, LPN/LVN",
+    "pathway": ""
+  }
+]
