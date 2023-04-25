@@ -17685,7 +17685,9 @@ function supplyDataToSelectedLayers(context, jsonData, order) {
         var dataKey = textLayer.name;
         if (dataKey) {
           var _data = order === 'alphabetical' ? getAlphabeticalData(currentIndex) : getRandomData();
-          if (_data[dataKey]) {
+          if (_data[dataKey] === ' ') {
+            textLayer.text = ' ';
+          } else if (_data[dataKey]) {
             textLayer.text = _data[dataKey];
           } else {
             console.error("Error: No matching data found for key \"".concat(dataKey, "\"."));

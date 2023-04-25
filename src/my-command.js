@@ -204,9 +204,11 @@ function supplyDataToSelectedLayers(context, jsonData, order, indexKey = null, c
 
         if (dataKey) {
           const data = order === 'alphabetical' ? getAlphabeticalData(currentIndex) : getRandomData();
-          if (data[dataKey]) {
-            textLayer.text = data[dataKey];
-          } else {
+          if (data[dataKey] === ' ') {
+              textLayer.text = ' ';
+            } else if (data[dataKey]) {
+              textLayer.text = data[dataKey];
+            } else {
             console.error(`Error: No matching data found for key "${dataKey}".`);
           }
         }
