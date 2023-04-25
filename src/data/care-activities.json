@@ -7,7 +7,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Address patient barriers to return to Home modality",
@@ -17,7 +17,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Administer empiric intraperitoneal (IP) antibiotic therapy per physician order",
@@ -37,7 +37,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "AA, FA, MSW, RN, PCT, RD, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Assess exit site for signs and symptoms of infection",
@@ -47,7 +47,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Assess for psychosocial needs impacting overall care",
@@ -57,7 +57,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Assist patient with understanding employment benefits",
@@ -67,7 +67,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Assist with insurance related needs",
@@ -77,7 +77,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Assist with Patient Financial Evaluation (PFE)",
@@ -87,7 +87,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Change peritoneal dialysis (PD) adapter",
@@ -97,7 +97,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Collect peritoneal dialysis (PD) effluent sample per physician order",
@@ -117,7 +117,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Complete HHD training per physician order",
@@ -137,7 +137,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Complete PD training per physician order",
@@ -147,7 +147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct Motivational Interviewing",
@@ -157,7 +157,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct suicide risk evaluation",
@@ -167,7 +167,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Contact adult protective services",
@@ -177,7 +177,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Contact child protective services",
@@ -187,7 +187,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Contact patient",
@@ -197,7 +197,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate Care Conference",
@@ -207,7 +207,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate first home treatment",
@@ -217,7 +217,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate home health referral with nephrologist/non-physician practitioner (NPP)",
@@ -227,7 +227,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate home modality retraining",
@@ -237,7 +237,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate Home Nurse home nurse consultation",
@@ -257,7 +257,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate patient needs as appropriate",
@@ -267,7 +267,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to cardiologist",
@@ -277,7 +277,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to dentist",
@@ -287,7 +287,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to endocrinologist",
@@ -297,7 +297,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN,VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to gastroenterologist",
@@ -307,7 +307,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to hematologist",
@@ -317,7 +317,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to infectious disease specialist",
@@ -327,7 +327,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to mental health provider",
@@ -337,7 +337,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to neurologist",
@@ -347,7 +347,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to oncologist",
@@ -357,7 +357,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to ophthalmologist",
@@ -367,7 +367,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to optometrist",
@@ -377,7 +377,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to orthopedist",
@@ -387,7 +387,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to PCP",
@@ -397,7 +397,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to physical therapist",
@@ -407,7 +407,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to podiatrist",
@@ -417,7 +417,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to pulmonologist",
@@ -427,7 +427,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to rheumatologist",
@@ -437,7 +437,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to specialized pharmacy",
@@ -447,7 +447,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to urologist",
@@ -457,7 +457,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to vascular surgeon",
@@ -467,7 +467,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate physician's referral to wound care center",
@@ -477,7 +477,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate referral to access center",
@@ -487,7 +487,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate training and home evaluation needs",
@@ -507,7 +507,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate with Insurance Management Team (IMT) for assistance with insurance needs to overcome insurance barriers",
@@ -517,7 +517,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Coordinate with transplant center regarding patient's status",
@@ -527,7 +527,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Counsel patient regarding anxiety with cannulation on needle phobia",
@@ -537,7 +537,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Counsel patient regarding on body image concerns",
@@ -547,7 +547,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Carpet edges should be secured. Throw rugs are discouraged, but if used they need to have a nonslip surface",
@@ -557,7 +557,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Communicate Critical Fall Risk to all team members",
@@ -567,7 +567,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Consult with physician on poly-pharmacy, rehab service, lab, and comorbidities",
@@ -577,7 +577,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Educate patient and care partners on risk factors and prevention",
@@ -587,7 +587,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Escort patient to and from dialysis chair. Offer wheelchair and document any type of refusal",
@@ -597,7 +597,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Home visit recommended",
@@ -607,7 +607,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: If assistance devices such as cane, walker, wheelchair, etc. are used, keep within reach, but not in main traffic area",
@@ -617,7 +617,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: If grab bars are being used, be sure they are firmly attached",
@@ -627,7 +627,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: If patient requires assistance to bathroom, stay with patient providing privacy as indicated",
@@ -637,7 +637,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Keep home hallways free of boxes, supplies or obstacles",
@@ -647,7 +647,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Keep room lighting adequate",
@@ -657,7 +657,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Keep spills wiped up and floor free of debris",
@@ -667,7 +667,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Critical Fall Precaution: Pathway to bathroom should be unobstructed. Secure equipment and cords out of pathway",
@@ -677,7 +677,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Demonstrate deep breathing/visualization",
@@ -687,7 +687,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Demonstrate mindfulness activities",
@@ -697,7 +697,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Develop Return to Home plan",
@@ -707,7 +707,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss access function with nephrologist/non-physician practitioner (NPP)",
@@ -717,7 +717,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss additional day of dialysis with nephrologist/non-physician practitioner (NPP)",
@@ -727,7 +727,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss advance care plan planning",
@@ -737,7 +737,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss advance care plan planning with care partner(s)",
@@ -747,7 +747,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss advance care plan with nephrologist/non-physician practitioner (NPP)",
@@ -757,7 +757,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss antifungal prophylaxis with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
@@ -767,7 +767,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss behavioral activation",
@@ -777,7 +777,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss blood pressure medications with nephrologist/non-physician practitioner (NPP)",
@@ -787,7 +787,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss calcium bath order with nephrologist/non-physician practitioner (NPP)",
@@ -797,7 +797,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss calcium supplement order with nephrologist/non-physician practitioner (NPP)",
@@ -807,7 +807,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss change in health condition with care partner(s)",
@@ -817,7 +817,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss communication skills",
@@ -827,7 +827,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss coping thoughts",
@@ -837,7 +837,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss decision making capacity with nephrologist/non-physician practitioner (NPP)",
@@ -847,7 +847,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss diabetic wound care with nephrologist/non-physician practitioner (NPP)",
@@ -857,7 +857,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss diet order with nephrologist/non-physician practitioner (NPP)",
@@ -867,7 +867,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss Distress Thermometer results with nephrologist/non-physician practitioner (NPP)",
@@ -877,7 +877,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss electrolyte imbalance with nephrologist/non-physician practitioner (NPP)",
@@ -887,7 +887,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss exit site culture results with nephrologist/non-physician practitioner (NPP)",
@@ -897,7 +897,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss ferritin lab results with nephrologist/non-physician practitioner (NPP)",
@@ -907,7 +907,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss gastrointestinal (GI) bleed with nephrologist/non-physician practitioner (NPP)",
@@ -917,7 +917,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss gastrointestinal (GI) concerns with nephrologist/non-physician practitioner (NPP)",
@@ -927,7 +927,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss goal (courage) ladder",
@@ -937,7 +937,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss hemoglobin lab results with nephrologist/non-physician practitioner (NPP)",
@@ -947,7 +947,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss heparin with nephrologist/non-physician practitioner (NPP)",
@@ -957,7 +957,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss hepatitis lab results with nephrologist/non-physician practitioner (NPP)",
@@ -967,7 +967,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss homework materials",
@@ -977,7 +977,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss hospice eligibility with nephrologist/non-physician practitioner (NPP)",
@@ -987,7 +987,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss IDPN/IPN with nephrologist/non-physician practitioner (NPP)",
@@ -997,7 +997,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss impact of current treatment prescription on blood pressure with nephrologist/non-physician practitioner (NPP)",
@@ -1007,7 +1007,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss initiation and/or dose change of calcimimetics with nephrologist/non-physician practitioner (NPP)",
@@ -1017,7 +1017,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss initiation and/or dose change of Parsabiv with nephrologist/non-physician practitioner (NPP)",
@@ -1027,7 +1027,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss initiation and/or dose change of vitamin D with nephrologist/non-physician practitioner (NPP)",
@@ -1037,7 +1037,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss initiation of kidney-friendly vitamin with nephrologist/non-physician practitioner (NPP)",
@@ -1047,7 +1047,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss iron levels with nephrologist/non-physician practitioner (NPP)",
@@ -1057,7 +1057,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss iron supplements with nephrologist/non-physician practitioner (NPP)",
@@ -1067,7 +1067,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss KDQOL results with nephrologist/non-physician practitioner (NPP)",
@@ -1077,7 +1077,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss medications related to anemia with nephrologist/non-physician practitioner (NPP)",
@@ -1087,7 +1087,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss medications with nephrologist/non-physician practitioner (NPP)",
@@ -1097,7 +1097,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss microbiology culture results with nephrologist/non-physician practitioner (NPP)",
@@ -1107,7 +1107,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss mineral and bone disorder (MBD) management with nephrologist/non-physician practitioner (NPP)",
@@ -1117,7 +1117,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Adequacy Management protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1127,7 +1127,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Antibiotic Stewardship protocol with nephrologist /non-physician practitioner (NPP)",
@@ -1137,7 +1137,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for antibiotics with nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
@@ -1147,7 +1147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for appetite stimulant with nephrologist/non-physician practitioner (NPP)",
@@ -1157,7 +1157,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for barium swallow with nephrologist/non-physician practitioner (NPP)",
@@ -1167,7 +1167,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Calcimimetic protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1177,7 +1177,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for chest x-ray (CXR) with nephrologist/non-physician practitioner (NPP)",
@@ -1187,7 +1187,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for exercise program with nephrologist/non-physician practitioner (NPP)",
@@ -1197,7 +1197,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Heparin protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1207,7 +1207,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Hepatitis B surveillance with nephrologist/non-physician practitioner (NPP)",
@@ -1217,7 +1217,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Hepatitis C Surveillance protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1227,7 +1227,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for home environment evaluation with nephrologist/non-physician practitioner (NPP)",
@@ -1237,7 +1237,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for intraperitoneal (IP) heparin with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
@@ -1247,7 +1247,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for IronWorks protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1257,7 +1257,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for kidney-friendly vitamins with nephrologist/non-physician practitioner (NPP)",
@@ -1267,7 +1267,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for lab order(s) with nephrologist/non-physician practitioner (NPP)",
@@ -1277,7 +1277,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for laxatives/stool softeners with nephrologist/non-physician practitioner (NPP)",
@@ -1287,7 +1287,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for MBD Labs protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1297,7 +1297,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for microbiology culture(s) with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
@@ -1307,7 +1307,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for multivitamins with nephrologist/non-physician practitioner (NPP)",
@@ -1317,7 +1317,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for ONS protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1327,7 +1327,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for pain management with the nephrologist/non-physician practitioner (NPP) and obtain appropriate orders",
@@ -1337,7 +1337,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for peritoneal equilibration test (PET) with nephrologist/non-physician practitioner (NPP)",
@@ -1347,7 +1347,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for pneumococcal vaccination order with nephrologist/non-physician practitioner (NPP)",
@@ -1357,7 +1357,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for Prevnar vaccination order with nephrologist/non-physician practitioner (NPP)",
@@ -1367,7 +1367,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for SHAPE protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1377,7 +1377,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for surgical evaluation with nephrologist/non-physician practitioner (NPP)",
@@ -1387,7 +1387,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for treatment order and prescription changes with nephrologist/non-physician practitioner (NPP)",
@@ -1397,7 +1397,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for tuberculosis (TB) test with nephrologist/non-physician practitioner (NPP)",
@@ -1407,7 +1407,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss need for vitamin D protocol with nephrologist/non-physician practitioner (NPP)",
@@ -1417,7 +1417,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to access center with nephrologist/non-physician practitioner (NPP)",
@@ -1427,7 +1427,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to cardiologist with nephrologist/non-physician practitioner (NPP)",
@@ -1437,7 +1437,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to dentist with nephrologist/non-physician practitioner (NPP)",
@@ -1447,7 +1447,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to endocrinologist with nephrologist/non-physician practitioner (NPP)",
@@ -1457,7 +1457,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to gastroenterologist with nephrologist/non-physician practitioner (NPP)",
@@ -1467,7 +1467,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to hematologist with nephrologist/non-physician practitioner (NPP)",
@@ -1477,7 +1477,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to infectious disease specialist with nephrologist/non-physician practitioner (NPP)",
@@ -1487,7 +1487,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to mental health provider with nephrologist/non-physician practitioner (NPP)",
@@ -1497,7 +1497,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to neurologist with nephrologist/non-physician practitioner (NPP)",
@@ -1507,7 +1507,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to oncologist with nephrologist/non-physician practitioner (NPP)",
@@ -1517,7 +1517,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to ophthalmologist with nephrologist/non-physician practitioner (NPP)",
@@ -1527,7 +1527,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to optometrist with nephrologist/non-physician practitioner (NPP)",
@@ -1537,7 +1537,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to orthopedist with nephrologist/non-physician practitioner (NPP)",
@@ -1547,7 +1547,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, RD, MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to physical therapist with nephrologist/non-physician practitioner (NPP)",
@@ -1557,7 +1557,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to podiatrist with nephrologist/non-physician practitioner (NPP)",
@@ -1567,7 +1567,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to primary care physician (PCP) with nephrologist/non-physician practitioner (NPP)",
@@ -1577,7 +1577,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to pulmonologist with nephrologist/non-physician practitioner (NPP)",
@@ -1587,7 +1587,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to rheumatologist with nephrologist/non-physician practitioner (NPP)",
@@ -1597,7 +1597,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to specialized pharmacy with nephrologist/non-physician practitioner (NPP)",
@@ -1607,7 +1607,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to transplant center with nephrologist/non-physician practitioner (NPP)",
@@ -1617,7 +1617,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to transplant coordinator with nephrologist/non-physician practitioner (NPP)",
@@ -1627,7 +1627,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to urologist with nephrologist/non-physician practitioner (NPP)",
@@ -1637,7 +1637,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to vascular surgeon with nephrologist/non-physician practitioner (NPP)",
@@ -1647,7 +1647,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss obtaining a referral to wound care center with nephrologist/non-physician practitioner (NPP)",
@@ -1657,7 +1657,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss patient's management of diabetes with endocrinologist",
@@ -1667,7 +1667,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss patient's management of diabetes with nephrologist/non-physician practitioner (NPP)",
@@ -1677,7 +1677,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss patient's readiness for change",
@@ -1687,7 +1687,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss patient's strengths and coping strategies",
@@ -1697,7 +1697,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss phosphorus binders with nephrologist/non-physician practitioner (NPP)",
@@ -1707,7 +1707,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss PHQ-9 results with nephrologist/non-physician practitioner (NPP)",
@@ -1717,7 +1717,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss poly-pharmacy with nephrologist/non-physician practitioner (NPP)",
@@ -1727,7 +1727,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss potassium bath order with nephrologist/non-physician practitioner (NPP)",
@@ -1737,7 +1737,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss potassium-related medications or supplements with nephrologist/non-physician practitioner (NPP)",
@@ -1747,7 +1747,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss potential bicarbonate adjustment with nephrologist/non-physician practitioner (NPP)",
@@ -1757,7 +1757,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss potential role of diuretics, ACE inhibitors and ARBs with nephrologist/non-physician practitioner (NPP)",
@@ -1767,7 +1767,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss primary care needs with nephrologist/non-physician practitioner (NPP)",
@@ -1777,7 +1777,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss referral to mental health provider with nephrologist/non-physician practitioner (NPP)",
@@ -1787,7 +1787,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss residual kidney functioning with nephrologist/non-physician practitioner (NPP)",
@@ -1797,7 +1797,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss reticulocyte count lab results with nephrologist/non-physician practitioner (NPP)",
@@ -1807,7 +1807,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss smoking cessation with nephrologist/non-physician practitioner (NPP)",
@@ -1817,7 +1817,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss stop and distract materials",
@@ -1827,7 +1827,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss target weight with nephrologist/non-physician practitioner (NPP)",
@@ -1837,7 +1837,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss the cognitive triangle",
@@ -1847,7 +1847,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss the discontinuation of sodium modeling with nephrologist/non-physician practitioner (NPP)",
@@ -1857,7 +1857,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss the emotion wheel",
@@ -1867,7 +1867,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss the exception question",
@@ -1877,7 +1877,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss the miracle question",
@@ -1887,7 +1887,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss thought diagram",
@@ -1897,7 +1897,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss transferrin saturation (TSAT) lab results with nephrologist/non-physician practitioner (NPP)",
@@ -1907,7 +1907,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss transfusion options with nephrologist/non-physician practitioner (NPP)",
@@ -1917,7 +1917,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss treatment order related to fluid with nephrologist/non-physician practitioner (NPP)",
@@ -1927,7 +1927,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss treatment order with nephrologist/non-physician practitioner (NPP)",
@@ -1937,7 +1937,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss treatment schedule options",
@@ -1947,7 +1947,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Discuss treatment time/frequency with nephrologist/non-physician practitioner (NPP)",
@@ -1957,7 +1957,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, RD, MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate care partner on medication management",
@@ -1967,7 +1967,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate care partner on state specific state-specific advance care plan processes and documents",
@@ -1977,7 +1977,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate Explore patient's on personal priorities/goals",
@@ -1987,7 +1987,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on access care",
@@ -1997,7 +1997,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on access function",
@@ -2007,7 +2007,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on access infection prevention",
@@ -2017,7 +2017,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD , RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on acute kidney injury (AKI) diagnosis",
@@ -2027,7 +2027,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on ADA support from Department of Labor",
@@ -2037,7 +2037,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on adequate dialysis",
@@ -2047,7 +2047,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on adequate protein intake",
@@ -2057,7 +2057,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on adhering to prescribed dialysis treatment",
@@ -2067,7 +2067,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on adjusting to dialysis",
@@ -2077,7 +2077,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on anemia management",
@@ -2087,7 +2087,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on arteriovenous fistula/graft (AVF/AVG) care",
@@ -2097,7 +2097,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on assistive equipment (cane, walker, wheelchair, velcro shoes, etc.)",
@@ -2107,7 +2107,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on barriers to completing prescribed treatment",
@@ -2117,7 +2117,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on barriers to transplant",
@@ -2127,7 +2127,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on benefits of a transplant",
@@ -2137,7 +2137,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on buttonhole technique",
@@ -2147,7 +2147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on central venous catheter (CVC) care",
@@ -2157,7 +2157,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on change in dextrose solution concentration",
@@ -2167,7 +2167,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on current dialysis prescription",
@@ -2177,7 +2177,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on CVC to AVF/AVG process and benefits",
@@ -2187,7 +2187,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on CVC to PDC process and benefits",
@@ -2197,7 +2197,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on daily weight monitoring process",
@@ -2207,7 +2207,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on diabetic diet",
@@ -2217,7 +2217,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on diabetic foot care",
@@ -2227,7 +2227,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on diabetic medications",
@@ -2237,7 +2237,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on discussing medications with outside providers",
@@ -2247,7 +2247,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on Emergency Diet",
@@ -2257,7 +2257,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, RD, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on factors that could impact nutrition status",
@@ -2267,7 +2267,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on gastrointestinal (GI) issues",
@@ -2277,7 +2277,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on GI bleed",
@@ -2287,7 +2287,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on handwashing/hygiene",
@@ -2297,7 +2297,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on health risks of fluid overload",
@@ -2307,7 +2307,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on high blood pressure",
@@ -2317,7 +2317,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on high phosphorus foods",
@@ -2327,7 +2327,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on home administration of medications",
@@ -2337,7 +2337,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on how to adjust strength of dextrose solution",
@@ -2347,7 +2347,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on how to increase dietary fiber intake",
@@ -2357,7 +2357,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on how to manage fluid and blood pressure",
@@ -2367,7 +2367,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on hypercalcemia",
@@ -2377,7 +2377,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on hyperphosphatemia",
@@ -2387,7 +2387,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on hypocalcemia",
@@ -2397,7 +2397,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on hypoparathyroidism",
@@ -2407,7 +2407,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on hypophosphatemia",
@@ -2417,7 +2417,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on importance of annual eye exam",
@@ -2427,7 +2427,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on importance of having a primary care physician",
@@ -2437,7 +2437,7 @@
     "role": "MSW RN",
     "tm": "",
     "sRole": "RN, RD, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on importance of medication adherence",
@@ -2447,7 +2447,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on infection management",
@@ -2457,7 +2457,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on influenza vaccination",
@@ -2467,7 +2467,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on insurance resources",
@@ -2477,7 +2477,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on kidney diet",
@@ -2487,7 +2487,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on lab results",
@@ -2497,7 +2497,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, RD, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on local housing resources",
@@ -2507,7 +2507,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, RD, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on low blood pressure",
@@ -2517,7 +2517,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on low phosphorus foods",
@@ -2527,7 +2527,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on managing anxiety",
@@ -2537,7 +2537,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD , RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on managing constipation",
@@ -2547,7 +2547,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on managing diarrhea",
@@ -2557,7 +2557,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on managing stress",
@@ -2567,7 +2567,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medication administration effect on blood pressure",
@@ -2577,7 +2577,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medication administration effect on fluid",
@@ -2587,7 +2587,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medication management",
@@ -2597,7 +2597,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medication side effects",
@@ -2607,7 +2607,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medications",
@@ -2617,7 +2617,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medications impacting appetite and GI",
@@ -2627,7 +2627,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medications impacting calcium",
@@ -2637,7 +2637,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medications impacting parathyroid hormone (PTH)",
@@ -2647,7 +2647,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on medications impacting phosphorus",
@@ -2657,7 +2657,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on monitoring blood glucose",
@@ -2667,7 +2667,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on non-nutritional factors affecting albumin levels",
@@ -2677,7 +2677,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on nutrition resources",
@@ -2687,7 +2687,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on oral nutrition supplement (ONS)",
@@ -2697,7 +2697,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on over-the-counter medications",
@@ -2707,7 +2707,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on pain management",
@@ -2717,7 +2717,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on peritoneal dialysis catheter (PDC) care",
@@ -2727,7 +2727,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on permanent access placement",
@@ -2747,7 +2747,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on pneumococcal vaccination",
@@ -2757,7 +2757,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on Prevnar vaccination",
@@ -2767,7 +2767,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on reducing risk for peritonitis at home",
@@ -2777,7 +2777,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on regarding vocational rehabilitation resources",
@@ -2787,7 +2787,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on relationships and support services",
@@ -2797,7 +2797,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on relaxation techniques",
@@ -2807,7 +2807,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on resources available for home improvement",
@@ -2817,7 +2817,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on risks associated with missed/shortened treatments",
@@ -2827,7 +2827,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on risks of high Hgb A1c and proper management",
@@ -2837,7 +2837,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on risks of high potassium",
@@ -2847,7 +2847,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on risks of low albumin",
@@ -2857,7 +2857,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on risks of low potassium",
@@ -2867,7 +2867,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on routine diabetes care",
@@ -2877,7 +2877,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on secondary hyperparathyroidism",
@@ -2887,7 +2887,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on self care self-care strategies",
@@ -2897,7 +2897,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on signs and symptoms of sepsis",
@@ -2907,7 +2907,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on sodium and fluid allowance",
@@ -2917,7 +2917,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on sources of calcium in diet",
@@ -2927,7 +2927,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on state specific state-specific advance care plan processes and documents",
@@ -2937,7 +2937,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on strength and balance exercises",
@@ -2947,7 +2947,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on the importance of exercise",
@@ -2957,7 +2957,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on the risks associated with malnutrition",
@@ -2967,7 +2967,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on transplant list status",
@@ -2977,7 +2977,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on transplant process",
@@ -2987,7 +2987,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on transportation resources",
@@ -2997,7 +2997,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on types of disability benefits/FMLA",
@@ -3007,7 +3007,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on ultrafiltration rate (UFR)",
@@ -3017,7 +3017,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on underlying cause of hospitalization",
@@ -3027,7 +3027,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on use of glucometer and glucometer check",
@@ -3037,7 +3037,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on ways to reduce cramping",
@@ -3047,7 +3047,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on weight gain",
@@ -3057,7 +3057,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on weight loss",
@@ -3067,7 +3067,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient on weight management",
@@ -3077,7 +3077,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient/care partner(s) on hospice and palliative care treatment options",
@@ -3087,7 +3087,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Educate patient/caregiver/care partner on securing the PD catheter and transfer set",
@@ -3097,7 +3097,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate 24 hour urine",
@@ -3107,7 +3107,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate access function",
@@ -3117,7 +3117,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate access to medications",
@@ -3127,7 +3127,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate appetite/adequacy of intake",
@@ -3137,7 +3137,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate barriers to completing prescribed treatment",
@@ -3147,7 +3147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate barriers to starting/maintaining home therapy",
@@ -3157,7 +3157,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate blood flow rate (BFR)",
@@ -3167,7 +3167,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate blood pressure trends",
@@ -3177,7 +3177,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate complete blood count (CBC) lab results",
@@ -3187,7 +3187,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate dialysate bath prescription",
@@ -3197,7 +3197,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate dialyzer",
@@ -3207,7 +3207,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate diet order",
@@ -3217,7 +3217,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate draining issues and alarms",
@@ -3227,7 +3227,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hypercalcemia",
@@ -3237,7 +3237,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hyperparathyroidism",
@@ -3247,7 +3247,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hyperphosphatemia",
@@ -3257,7 +3257,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hypocalcemia",
@@ -3267,7 +3267,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hypoparathyroidism",
@@ -3277,7 +3277,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to hypophosphatemia",
@@ -3287,7 +3287,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to low albumin",
@@ -3297,7 +3297,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to out of range A1c",
@@ -3307,7 +3307,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate factors contributing to out of range parathyroid hormone (PTH)",
@@ -3317,7 +3317,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate ferritin lab results",
@@ -3327,7 +3327,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate fluid status",
@@ -3337,7 +3337,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for arteriovenous fistula (AVF) maturation and readiness to cannulate",
@@ -3347,7 +3347,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for arteriovenous graft (AVG) healing and readiness to cannulate",
@@ -3367,7 +3367,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for barriers to transplant",
@@ -3377,7 +3377,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for catheter contamination",
@@ -3387,7 +3387,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for durable medical equipment (DME) needs",
@@ -3397,7 +3397,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for signs/symptoms of peritonitis",
@@ -3407,7 +3407,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate for treatment modality",
@@ -3417,7 +3417,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate gastrointestinal (GI) status",
@@ -3427,7 +3427,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate hemoglobin lab results",
@@ -3437,7 +3437,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate heparin alternatives",
@@ -3447,7 +3447,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate heparin order",
@@ -3457,7 +3457,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate home supply of ESA",
@@ -3467,7 +3467,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of calcimimetics on parathyroid hormone (PTH)",
@@ -3477,7 +3477,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on anemia",
@@ -3487,7 +3487,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on blood pressure",
@@ -3497,7 +3497,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on calcium",
@@ -3507,7 +3507,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on fluid",
@@ -3517,7 +3517,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on infection",
@@ -3527,7 +3527,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on phosphorus",
@@ -3537,7 +3537,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of medications on potassium",
@@ -3547,7 +3547,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of oral nutrition supplement (ONS)",
@@ -3557,7 +3557,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of supplements on potassium",
@@ -3567,7 +3567,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate impact of vitamin D on parathyroid hormone (PTH)",
@@ -3577,7 +3577,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate infection history",
@@ -3587,7 +3587,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate iron levels",
@@ -3597,7 +3597,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate medications that may cause gastrointestinal (GI) distress",
@@ -3607,7 +3607,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate microbiology results",
@@ -3617,7 +3617,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate motivation or willingness to achieve treatment goals",
@@ -3627,7 +3627,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for change in PD prescription",
@@ -3637,7 +3637,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for change in PD solution",
@@ -3647,7 +3647,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for home visit",
@@ -3657,7 +3657,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for icodextrin",
@@ -3667,7 +3667,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for IDPN/IPN",
@@ -3677,7 +3677,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate need for repeat peritoneal equilibration test (PET)",
@@ -3687,7 +3687,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate needle size",
@@ -3697,7 +3697,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate nutritional needs related to infection",
@@ -3717,7 +3717,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate prescribed Kt/V",
@@ -3727,7 +3727,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate psychosocial needs related to infection",
@@ -3737,7 +3737,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate reticulocyte count lab results",
@@ -3747,7 +3747,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate Return to Home plan",
@@ -3757,7 +3757,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate shortened/missed PD treatment(s)",
@@ -3767,7 +3767,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate sodium and fluid intake",
@@ -3777,7 +3777,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate tolerance of oral nutrition supplement (ONS)",
@@ -3787,7 +3787,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate transferrin saturation (TSAT) lab results",
@@ -3797,7 +3797,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate treatment order related to fluid",
@@ -3807,7 +3807,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate vendor status",
@@ -3817,7 +3817,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate weight (pre/post-weight, target weight, body weight)",
@@ -3827,7 +3827,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate whether patient is a candidate for PD/HHD",
@@ -3837,7 +3837,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Explore scheduling options to address fluid status with patient",
@@ -3847,7 +3847,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Explore transportation needs with patient",
@@ -3857,7 +3857,7 @@
     "role": "AA",
     "tm": "",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for arteriovenous fistula/graft (AVF/G) intervention",
@@ -3867,7 +3867,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for central venous catheter (CVC) evaluation",
@@ -3877,7 +3877,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for central venous catheter (CVC) intervention",
@@ -3887,7 +3887,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for fistula cannulation",
@@ -3897,7 +3897,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for other provider",
@@ -3907,7 +3907,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for peritoneal dialysis catheter (PDC) intervention",
@@ -3917,7 +3917,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for peritoneal dialysis catheter (PDC) placement evaluation",
@@ -3927,7 +3927,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for surgical evaluation",
@@ -3937,7 +3937,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of appointment for vessel mapping",
@@ -3947,7 +3947,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of arteriovenous fistula (AVF) maturation ultrasound",
@@ -3967,7 +3967,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of arteriovenous fistula/graft (AVF/G) surgery",
@@ -3977,7 +3977,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of central venous catheter (CVC) removal",
@@ -3987,7 +3987,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of endocrinology appointment",
@@ -3997,7 +3997,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of eye exam",
@@ -4007,7 +4007,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of gastrointestinal (GI) appointment",
@@ -4017,7 +4017,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "PCT, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of peritoneal dialysis catheter (PDC) surgery",
@@ -4027,7 +4027,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of permanent access pre-op evaluation",
@@ -4037,7 +4037,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of permanent access surgery",
@@ -4047,7 +4047,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, LPN/LVN, MSW, PCT, RD, RN, Modality Educator",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of podiatry appointment",
@@ -4057,7 +4057,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, AA, FA, LPN/LVN, PCT, Modality Educator",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Follow up on outcome of post-operative maturation ultrasound",
@@ -4067,7 +4067,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Guide body scan",
@@ -4077,7 +4077,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Guide container visualization",
@@ -4087,7 +4087,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Guide patient in calm place visualization",
@@ -4097,7 +4097,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN, PM",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Home Visit-HHD",
@@ -4117,7 +4117,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Initiate cannulation",
@@ -4137,7 +4137,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Initiate home modality retraining per nurse discretion and physician order-PD",
@@ -4147,7 +4147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Initiate modality choice discussion",
@@ -4187,7 +4187,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Obtain consent and physician's order for influenza vaccine",
@@ -4197,7 +4197,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Patient non-responsive to ESA. Evaluate hemoglobin, retic count, iron labs, and ESA order with nephrologist/non-physician practitioner (NPP)",
@@ -4207,7 +4207,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Perform foot check",
@@ -4217,7 +4217,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Perform peritoneal dialysis catheter (PDC) lavage/therapeutic exchange",
@@ -4227,7 +4227,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Perform sterile dressing change",
@@ -4237,7 +4237,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Perform transfer set change per policy",
@@ -4257,7 +4257,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Phone Call-PD",
@@ -4267,7 +4267,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide first HHD training per physician order",
@@ -4287,7 +4287,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on adult protective services",
@@ -4297,7 +4297,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on advocacy resources",
@@ -4307,7 +4307,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on child protective services",
@@ -4317,7 +4317,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on federal psychosocial resources",
@@ -4327,7 +4327,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on local psychosocial resources",
@@ -4337,7 +4337,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide information on state psychosocial resources",
@@ -4347,7 +4347,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of health care proxies",
@@ -4357,7 +4357,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on home health facilities",
@@ -4367,7 +4367,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on home health resources",
@@ -4377,7 +4377,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on hospice care centers",
@@ -4387,7 +4387,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on outside community health resources",
@@ -4397,7 +4397,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on resources for drug/alcohol substance abuse treatment",
@@ -4407,7 +4407,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on resources for obtaining durable medical equipment (DME)",
@@ -4417,7 +4417,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on respite care resources",
@@ -4427,7 +4427,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on skilled nursing facilities (SNF)",
@@ -4437,7 +4437,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on smoking cessation centers",
@@ -4447,7 +4447,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of information on substance use resources",
@@ -4457,7 +4457,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of nutrition resources",
@@ -4467,7 +4467,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "AA, MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of outside community mental health resources",
@@ -4477,7 +4477,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide list of resources for obtaining a glucometer",
@@ -4487,7 +4487,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide oral nutrition supplement (ONS) allocation for home use per physician order",
@@ -4497,7 +4497,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide PHQ-9 results for coordination of care",
@@ -4507,7 +4507,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide PHQ-9 results to mental health provider",
@@ -4517,7 +4517,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide pros and cons exercise",
@@ -4527,7 +4527,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide supportive counseling",
@@ -4537,7 +4537,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Provide values activity",
@@ -4547,7 +4547,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Refer to insurance case manager",
@@ -4557,7 +4557,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Refer to transplant center",
@@ -4567,7 +4567,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Remind patient to complete PD catheter flush",
@@ -4577,7 +4577,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Remind patient to complete weekly mini cap change",
@@ -4587,7 +4587,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Request discharge report from the hospital",
@@ -4597,7 +4597,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review hepatitis lab results",
@@ -4607,7 +4607,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review importance of bowel regimen",
@@ -4617,7 +4617,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review KDQOL survey results",
@@ -4627,7 +4627,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review Planning for Success at Home",
@@ -4637,7 +4637,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review problem list",
@@ -4647,7 +4647,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Review transition of care (TOC) process",
@@ -4657,7 +4657,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for arteriovenous fistula/graft (AVF/G) intervention",
@@ -4667,7 +4667,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for central venous catheter (CVC) evaluation",
@@ -4677,7 +4677,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for central venous catheter (CVC) intervention",
@@ -4687,7 +4687,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for eye exam",
@@ -4697,7 +4697,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for fistula cannulation",
@@ -4707,7 +4707,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHN, VHCC, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for other provider",
@@ -4717,7 +4717,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for peritoneal dialysis catheter (PDC) intervention",
@@ -4727,7 +4727,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, FA, MSW, LPN/LVN, PCT, RD, RN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for peritoneal dialysis catheter (PDC) placement evaluation",
@@ -4737,7 +4737,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN, VHCC, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for surgical evaluation",
@@ -4747,7 +4747,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule appointment for vessel mapping",
@@ -4757,7 +4757,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule arteriovenous fistula (AVF) maturation ultrasound",
@@ -4767,7 +4767,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, PCT, AA, FA, LPN/LVN VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule arteriovenous fistula/graft (AVF/G) evaluation",
@@ -4777,7 +4777,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule arteriovenous fistula/graft (AVF/G) surgery",
@@ -4787,7 +4787,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule central venous catheter (CVC) removal",
@@ -4797,7 +4797,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, VHN, VHNP",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule clinic visit within 48 hours",
@@ -4807,7 +4807,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule clinic visit within 48 hours of discharge",
@@ -4817,7 +4817,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule endocrinology appointment",
@@ -4827,7 +4827,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule gastrointestinal (GI) appointment",
@@ -4837,7 +4837,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule peritoneal dialysis catheter (PDC) surgery",
@@ -4847,7 +4847,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule permanent access pre-op evaluation",
@@ -4877,7 +4877,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "MSW, RD, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule post-hospitalization home retraining(s) per physician order",
@@ -4887,7 +4887,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule post-operative maturation ultrasound",
@@ -4897,7 +4897,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "AA, RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Schedule post-surgery visit with PD nurse",
@@ -4907,7 +4907,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Answer call light promptly",
@@ -4917,7 +4917,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Document instructions and patient response",
@@ -4927,7 +4927,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Educate patient/care partners related to fall risk factors/prevention strategy",
@@ -4937,7 +4937,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Environment free of obstacles",
@@ -4947,7 +4947,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Furniture locked/stabilized",
@@ -4957,7 +4957,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: If call light available, keep within reach",
@@ -4967,7 +4967,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Keep personal items within reach",
@@ -4977,7 +4977,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Orient to environment",
@@ -4987,7 +4987,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Standard Fall Precaution: Place patient close to nursing station",
@@ -4997,7 +4997,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Telehealth Visit-HHD",
@@ -5007,7 +5007,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Telehealth Visit-PD",
@@ -5017,7 +5017,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Verify CVC is removed",
@@ -5057,7 +5057,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct Target Weight Assessment",
@@ -5067,7 +5067,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct Fall Risk and Mobility Assessment",
@@ -5077,7 +5077,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct Match-D PD or HHD",
@@ -5117,7 +5117,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Document Patient Decision",
@@ -5137,7 +5137,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW, RN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Hepatitis B Status Unknown",
@@ -5147,7 +5147,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Evaluate Vocational Rehabilitation Status",
@@ -5157,7 +5157,7 @@
     "role": "MSW",
     "tm": "Cereza Bayonetta, MSW",
     "sRole": "MSW",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct SGA/MIS",
@@ -5167,7 +5167,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct social work counseling session",
@@ -5197,7 +5197,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Conduct Appetite GI Assessment",
@@ -5207,7 +5207,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Peritonitis Assessment",
@@ -5257,7 +5257,7 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Verify access placement",
@@ -5277,7 +5277,7 @@
     "role": "RD",
     "tm": "Arthur Morgan, RD",
     "sRole": "RD",
-    "pathway": ""
+    "pathway": " "
   },
   {
     "title": "Document Tuberculosis Risk Appraisal Questionnaire (TB-RAQ)",
@@ -5287,6 +5287,6 @@
     "role": "RN",
     "tm": "Geralt DiRivia, RN",
     "sRole": "RN, LPN/LVN",
-    "pathway": ""
+    "pathway": " "
   }
 ]
