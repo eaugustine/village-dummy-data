@@ -1,7 +1,7 @@
 {
   "name": "Village Dummy Data",
   "identifier": "com.example.village-dummy-data",
-  "version": "1.1",
+  "version": "1.2",
   "description": "A Sketch plugin to supply dummy data for patients, facilities, teammates, and care activities.",
   "author": "Erica Augustine",
   "compatibleVersion": 3,
@@ -9,16 +9,16 @@
   "icon": "../Resources/icon.png",
   "commands": [
     {
-      "name": "Patients - Alphabetical",
-      "identifier": "supply-patients-data-alphabetical",
+      "name": "Care Activities - Alphabetical",
+      "identifier": "supply-care-activities-data-alphabetical",
       "script": "src_my-command.js",
-      "handler": "onSupplyPatientsDataAlphabetical"
+      "handler": "onSupplyCareActivitiesDataAlphabetical"
     },
     {
-      "name": "Patients - Random",
-      "identifier": "supply-patients-data-random",
+      "name": "Care Activities - Random",
+      "identifier": "supply-care-activities-data-random",
       "script": "src_my-command.js",
-      "handler": "onSupplyPatientsDataRandom"
+      "handler": "onSupplyCareActivitiesDataRandom"
     },
     {
       "name": "Facilities - Alphabetical",
@@ -33,6 +33,30 @@
       "handler": "onSupplyFacilitiesDataRandom"
     },
     {
+      "name": "Patients - Alphabetical",
+      "identifier": "supply-patients-data-alphabetical",
+      "script": "src_my-command.js",
+      "handler": "onSupplyPatientsDataAlphabetical"
+    },
+    {
+      "name": "Patients - Random",
+      "identifier": "supply-patients-data-random",
+      "script": "src_my-command.js",
+      "handler": "onSupplyPatientsDataRandom"
+    },
+    {
+      "name": "Reports - Alphabetical",
+      "identifier": "supply-reports-data-alphabetical",
+      "script": "src_my-command.js",
+      "handler": "onSupplyReportsDataAlphabetical"
+    },
+    {
+      "name": "Reports - Random",
+      "identifier": "supply-reports-data-random",
+      "script": "src_my-command.js",
+      "handler": "onSupplyReportsDataRandom"
+    },
+    {
       "name": "Teammates - Alphabetical",
       "identifier": "supply-teammates-data-alphabetical",
       "script": "src_my-command.js",
@@ -45,18 +69,6 @@
       "handler": "onSupplyTeammatesDataRandom"
     },
     {
-      "name": "Care Activities - Alphabetical",
-      "identifier": "supply-care-activities-data-alphabetical",
-      "script": "src_my-command.js",
-      "handler": "onSupplyCareActivitiesDataAlphabetical"
-    },
-    {
-      "name": "Care Activities - Random",
-      "identifier": "supply-care-activities-data-random",
-      "script": "src_my-command.js",
-      "handler": "onSupplyCareActivitiesDataRandom"
-    },
-    {
       "name": "About",
       "identifier": "open-about-page",
       "script": "src_my-command.js",
@@ -65,14 +77,20 @@
   ],
   "menu": {
     "items": [
-      "supply-patients-data-alphabetical",
-      "supply-patients-data-random",
-      "supply-facilities-data-alphabetical",
-      "supply-facilities-data-random",
-      "supply-teammates-data-alphabetical",
-      "supply-teammates-data-random",
       "supply-care-activities-data-alphabetical",
       "supply-care-activities-data-random",
+      "-",
+      "supply-facilities-data-alphabetical",
+      "supply-facilities-data-random",
+      "-",
+      "supply-patients-data-alphabetical",
+      "supply-patients-data-random",
+      "-",
+      "supply-reports-data-alphabetical",
+      "supply-reports-data-random",
+      "-",
+      "supply-teammates-data-alphabetical",
+      "supply-teammates-data-random",
       "-",
       "open-about-page"
     ]

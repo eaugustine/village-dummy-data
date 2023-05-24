@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Infections & Surveillance Dashboard",
+    "description": "A multi-patient view of infection-related alerts, all information needed to manage vaccinations, communicable disease surveillance, microbial, and other infections.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Laboratory Alerts Report",
+    "description": "List of lab results that require timely review.",
+    "type": "Report"
+  },
+  {
+    "title": "MBD Snapshot Report",
+    "description": "Single-patient view of most relevant information related to MBD management.",
+    "type": "Report"
+  },
+  {
+    "title": "Nutrition and Blood Test Results Report",
+    "description": "Single-patient view of monthly lab results and fluid information to provide to patients.",
+    "type": "Report"
+  },
+  {
+    "title": "Nutrition and Diabetes Snapshot Report",
+    "description": "Single-patient view of most relevant information related to nutrition and diabetes management.",
+    "type": "Report"
+  },
+  {
+    "title": "Outcomes Management - Access",
+    "description": "Multi-patient view of most relevant information related to dialysis access management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - Adequacy",
+    "description": "Multi-patient view of most relevant information related to dialysis adequacy management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - Anemia",
+    "description": "Multi-patient view of most relevant information related to anemia management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - Fluid & BP",
+    "description": "Multi-patient view of most relevant information related to fluid management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - MBD",
+    "description": "Multi-patient view of most relevant information related to MBD management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - Nutrition & Diabetes",
+    "description": "Multi-patient view of most relevant information related to nutrition and diabetes management.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Outcomes Management - Social Work",
+    "description": "Multi-patient view of key psychosocial indicators.",
+    "type": "Dashboard"
+  },
+  {
+    "title": "Patient Facing Medications List",
+    "description": "Single-patient view of all currently active medications to provide to patients.",
+    "type": "Report"
+  },
+  {
+    "title": "Patient Inquiry Report",
+    "description": "Printable version of the patient's medical record.",
+    "type": "Report"
+  },
+  {
+    "title": "Patient Roster: Clinical Details",
+    "description": "Included: Name, MPI, renal functional status, ambulatory status, allergy, diabetic status, current height and date. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.",
+    "type": "Report"
+  },
+  {
+    "title": "Patient Roster: Patient Birthday List",
+    "description": "Included: Name, MPI, DOB. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.",
+    "type": "Report"
+  },
+  {
+    "title": "Patient Roster: Patient Profiles",
+    "description": "Included: Name, MPI, DOB, primary address, primary contact number, primary language, translator needed. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.",
+    "type": "Report"
+  },
+  {
+    "title": "Patient Summary Report",
+    "description": "Single-patient view that includes a summary of current patient information.",
+    "type": "Report"
+  },
+  {
+    "title": "Potassium & Calcium Dialysate Management Report",
+    "description": "Multi-patient view of most relevant information related to patient dialysate prescription management.",
+    "type": "Report"
+  },
+  {
+    "title": "Treatment Details Report",
+    "description": "Single-patient view of all information documented in Chairside during a specific ICHD patient encounter.",
+    "type": "Report"
+  },
+  {
+    "title": "Unsigned Order Signing",
+    "description": "Provider-specific list of all unsigned orders.",
+    "type": "Report"
+  },
+  {
+    "title": "Vaccinations and Surveillance Report",
+    "description": "Single-patient or multi-patient view of patient's vaccination and immunology history.",
+    "type": "Report"
+  },
+  {
+    "title": "Water Monitoring Log",
+    "description": "Report for generating an HTML or printable version of the report that display both automated and manual logs of water chlorine levels for a selected facility and date range.",
+    "type": "Report"
+  }
+]

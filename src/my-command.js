@@ -7,6 +7,7 @@ const patientsData = require('./data/patients.json')
 const facilitiesData = require('./data/facilities.json')
 const teammatesData = require('./data/teammates.json')
 const careActivitiesData = require('./data/care-activities.json')
+const reportsData = require('./data/reports.json')
 
 let currentIndex = 0;
 
@@ -17,6 +18,7 @@ export function onStartup() {
   DataSupplier.registerDataSupplier('public.text', 'Facilities', 'SupplyFacilitiesData')
   DataSupplier.registerDataSupplier('public.text', 'Teammates', 'SupplyTeammatesData')
   DataSupplier.registerDataSupplier('public.text', 'Care Activities/Categories', 'SupplyCareActivitiesData')
+  DataSupplier.registerDataSupplier('public.text', 'Reports', 'SupplyReportsData')
   DataSupplier.registerDataSupplier('public.text', 'About', 'OpenAboutPage')
 }
 
@@ -87,6 +89,22 @@ export function onSupplyCareActivitiesDataRandom(context) {
     supplyData(context, careActivitiesData)
 } else {
   supplyDataToSelectedLayers(context, careActivitiesData, 'random')
+  }
+}
+
+export function onSupplyReportsDataAlphabetical(context) {
+  if (context.data && context.data.items) {
+    supplyData(context, reportsData)
+  } else {
+    supplyDataToSelectedLayers(context, reportsData, 'alphabetical', 'title');
+  }
+}
+
+export function onSupplyReportsDataRandom(context) {
+  if (context.data && context.data.items) {
+    supplyData(context, reportsData)
+} else {
+  supplyDataToSelectedLayers(context, reportsData, 'random')
   }
 }
 
@@ -220,9 +238,6 @@ function supplyDataToSelectedLayers(context, jsonData, order, indexKey = null, c
     }
   });
 }
-
-
-
 
 
 // A reusable function to supply data from the JSON files

@@ -17469,6 +17469,17 @@ module.exports = JSON.parse("[{\"patientName\":\"Archuleta Borges, Alexandra\",\
 
 /***/ }),
 
+/***/ "./src/data/reports.json":
+/*!*******************************!*\
+  !*** ./src/data/reports.json ***!
+  \*******************************/
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"title\":\"Infections & Surveillance Dashboard\",\"description\":\"A multi-patient view of infection-related alerts, all information needed to manage vaccinations, communicable disease surveillance, microbial, and other infections.\",\"type\":\"Dashboard\"},{\"title\":\"Laboratory Alerts Report\",\"description\":\"List of lab results that require timely review.\",\"type\":\"Report\"},{\"title\":\"MBD Snapshot Report\",\"description\":\"Single-patient view of most relevant information related to MBD management.\",\"type\":\"Report\"},{\"title\":\"Nutrition and Blood Test Results Report\",\"description\":\"Single-patient view of monthly lab results and fluid information to provide to patients.\",\"type\":\"Report\"},{\"title\":\"Nutrition and Diabetes Snapshot Report\",\"description\":\"Single-patient view of most relevant information related to nutrition and diabetes management.\",\"type\":\"Report\"},{\"title\":\"Outcomes Management - Access\",\"description\":\"Multi-patient view of most relevant information related to dialysis access management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - Adequacy\",\"description\":\"Multi-patient view of most relevant information related to dialysis adequacy management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - Anemia\",\"description\":\"Multi-patient view of most relevant information related to anemia management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - Fluid & BP\",\"description\":\"Multi-patient view of most relevant information related to fluid management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - MBD\",\"description\":\"Multi-patient view of most relevant information related to MBD management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - Nutrition & Diabetes\",\"description\":\"Multi-patient view of most relevant information related to nutrition and diabetes management.\",\"type\":\"Dashboard\"},{\"title\":\"Outcomes Management - Social Work\",\"description\":\"Multi-patient view of key psychosocial indicators.\",\"type\":\"Dashboard\"},{\"title\":\"Patient Facing Medications List\",\"description\":\"Single-patient view of all currently active medications to provide to patients.\",\"type\":\"Report\"},{\"title\":\"Patient Inquiry Report\",\"description\":\"Printable version of the patient's medical record.\",\"type\":\"Report\"},{\"title\":\"Patient Roster: Clinical Details\",\"description\":\"Included: Name, MPI, renal functional status, ambulatory status, allergy, diabetic status, current height and date. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.\",\"type\":\"Report\"},{\"title\":\"Patient Roster: Patient Birthday List\",\"description\":\"Included: Name, MPI, DOB. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.\",\"type\":\"Report\"},{\"title\":\"Patient Roster: Patient Profiles\",\"description\":\"Included: Name, MPI, DOB, primary address, primary contact number, primary language, translator needed. Be sure to choose the Patient Roster report that has the minimum patient information required to complete the task.\",\"type\":\"Report\"},{\"title\":\"Patient Summary Report\",\"description\":\"Single-patient view that includes a summary of current patient information.\",\"type\":\"Report\"},{\"title\":\"Potassium & Calcium Dialysate Management Report\",\"description\":\"Multi-patient view of most relevant information related to patient dialysate prescription management.\",\"type\":\"Report\"},{\"title\":\"Treatment Details Report\",\"description\":\"Single-patient view of all information documented in Chairside during a specific ICHD patient encounter.\",\"type\":\"Report\"},{\"title\":\"Unsigned Order Signing\",\"description\":\"Provider-specific list of all unsigned orders.\",\"type\":\"Report\"},{\"title\":\"Vaccinations and Surveillance Report\",\"description\":\"Single-patient or multi-patient view of patient's vaccination and immunology history.\",\"type\":\"Report\"},{\"title\":\"Water Monitoring Log\",\"description\":\"Report for generating an HTML or printable version of the report that display both automated and manual logs of water chlorine levels for a selected facility and date range.\",\"type\":\"Report\"}]");
+
+/***/ }),
+
 /***/ "./src/data/teammates.json":
 /*!*********************************!*\
   !*** ./src/data/teammates.json ***!
@@ -17484,7 +17495,7 @@ module.exports = JSON.parse("[{\"nameLastFirst\":\"Arnold III, Eugene\",\"title\
 /*!***************************!*\
   !*** ./src/my-command.js ***!
   \***************************/
-/*! exports provided: onStartup, onShutdown, onSupplyPatientsDataAlphabetical, onSupplyPatientsDataRandom, onSupplyFacilitiesDataAlphabetical, onSupplyFacilitiesDataRandom, onSupplyTeammatesDataAlphabetical, onSupplyTeammatesDataRandom, onSupplyCareActivitiesDataAlphabetical, onSupplyCareActivitiesDataRandom, onOpenAboutPage */
+/*! exports provided: onStartup, onShutdown, onSupplyPatientsDataAlphabetical, onSupplyPatientsDataRandom, onSupplyFacilitiesDataAlphabetical, onSupplyFacilitiesDataRandom, onSupplyTeammatesDataAlphabetical, onSupplyTeammatesDataRandom, onSupplyCareActivitiesDataAlphabetical, onSupplyCareActivitiesDataRandom, onSupplyReportsDataAlphabetical, onSupplyReportsDataRandom, onOpenAboutPage */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17499,6 +17510,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onSupplyTeammatesDataRandom", function() { return onSupplyTeammatesDataRandom; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onSupplyCareActivitiesDataAlphabetical", function() { return onSupplyCareActivitiesDataAlphabetical; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onSupplyCareActivitiesDataRandom", function() { return onSupplyCareActivitiesDataRandom; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onSupplyReportsDataAlphabetical", function() { return onSupplyReportsDataAlphabetical; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onSupplyReportsDataRandom", function() { return onSupplyReportsDataRandom; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onOpenAboutPage", function() { return onOpenAboutPage; });
 /* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/toConsumableArray */ "./node_modules/@babel/runtime/helpers/toConsumableArray.js");
 /* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__);
@@ -17512,6 +17525,7 @@ var patientsData = __webpack_require__(/*! ./data/patients.json */ "./src/data/p
 var facilitiesData = __webpack_require__(/*! ./data/facilities.json */ "./src/data/facilities.json");
 var teammatesData = __webpack_require__(/*! ./data/teammates.json */ "./src/data/teammates.json");
 var careActivitiesData = __webpack_require__(/*! ./data/care-activities.json */ "./src/data/care-activities.json");
+var reportsData = __webpack_require__(/*! ./data/reports.json */ "./src/data/reports.json");
 var currentIndex = 0;
 
 // Register the plugin with each menu item
@@ -17520,6 +17534,7 @@ function onStartup() {
   DataSupplier.registerDataSupplier('public.text', 'Facilities', 'SupplyFacilitiesData');
   DataSupplier.registerDataSupplier('public.text', 'Teammates', 'SupplyTeammatesData');
   DataSupplier.registerDataSupplier('public.text', 'Care Activities/Categories', 'SupplyCareActivitiesData');
+  DataSupplier.registerDataSupplier('public.text', 'Reports', 'SupplyReportsData');
   DataSupplier.registerDataSupplier('public.text', 'About', 'OpenAboutPage');
 }
 function onShutdown() {
@@ -17581,6 +17596,20 @@ function onSupplyCareActivitiesDataRandom(context) {
     supplyData(context, careActivitiesData);
   } else {
     supplyDataToSelectedLayers(context, careActivitiesData, 'random');
+  }
+}
+function onSupplyReportsDataAlphabetical(context) {
+  if (context.data && context.data.items) {
+    supplyData(context, reportsData);
+  } else {
+    supplyDataToSelectedLayers(context, reportsData, 'alphabetical', 'title');
+  }
+}
+function onSupplyReportsDataRandom(context) {
+  if (context.data && context.data.items) {
+    supplyData(context, reportsData);
+  } else {
+    supplyDataToSelectedLayers(context, reportsData, 'random');
   }
 }
 function onOpenAboutPage(context) {
@@ -17757,15 +17786,17 @@ module.exports = require("util");
     }
   }
 }
-globalThis['onSupplyPatientsDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyPatientsDataAlphabetical');
+globalThis['onSupplyCareActivitiesDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyCareActivitiesDataAlphabetical');
 globalThis['onRun'] = __skpm_run.bind(this, 'default');
-globalThis['onSupplyPatientsDataRandom'] = __skpm_run.bind(this, 'onSupplyPatientsDataRandom');
+globalThis['onSupplyCareActivitiesDataRandom'] = __skpm_run.bind(this, 'onSupplyCareActivitiesDataRandom');
 globalThis['onSupplyFacilitiesDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyFacilitiesDataAlphabetical');
 globalThis['onSupplyFacilitiesDataRandom'] = __skpm_run.bind(this, 'onSupplyFacilitiesDataRandom');
+globalThis['onSupplyPatientsDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyPatientsDataAlphabetical');
+globalThis['onSupplyPatientsDataRandom'] = __skpm_run.bind(this, 'onSupplyPatientsDataRandom');
+globalThis['onSupplyReportsDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyReportsDataAlphabetical');
+globalThis['onSupplyReportsDataRandom'] = __skpm_run.bind(this, 'onSupplyReportsDataRandom');
 globalThis['onSupplyTeammatesDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyTeammatesDataAlphabetical');
 globalThis['onSupplyTeammatesDataRandom'] = __skpm_run.bind(this, 'onSupplyTeammatesDataRandom');
-globalThis['onSupplyCareActivitiesDataAlphabetical'] = __skpm_run.bind(this, 'onSupplyCareActivitiesDataAlphabetical');
-globalThis['onSupplyCareActivitiesDataRandom'] = __skpm_run.bind(this, 'onSupplyCareActivitiesDataRandom');
 globalThis['onOpenAboutPage'] = __skpm_run.bind(this, 'onOpenAboutPage')
 
 //# sourceMappingURL=src_my-command.js.map
