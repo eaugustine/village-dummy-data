@@ -32,27 +32,23 @@ The Village Dummy Data Plugin is a simple and efficient tool for populating your
 
 To ensure that the plugin populates the correct data, you should name your text layers in Sketch using the keys from the corresponding JSON data files. Below are examples of the key pairs in each data category.
 
-#### Patients Data
 
-Patients are alphabetized by the **patientName** key (last name first). Example key pairs in `patients.json`:
+#### Care Activities Data
+
+Example key pairs in `care-activities.json`:
 
 ```
-{
-    "patientName": "Archuleta Borges, Alexandra",
-    "gender": "Female",
-    "genderabb": "F",
-    "age": "65",
-    "dob": "07/11/1955",
-    "telephone": "(357) 392-4576",
-    "initials": "AA",
-    "mpi": "3690495",
-    "firstName": "Alexandra",
-    "lastName": "Archuleta Borges",
-    "status": "Active",
-    "facility": "Cedar Valley Waverly Dialysis (02196)"
+  {
+    "title": "Address patient barriers to return to Home modality",
+    "cc": "Modality, Care Coordination",
+    "cc1": "Modality",
+    "cc2": "Care Coordination",
+    "role": "RN",
+    "tm": "Geralt DiRivia, RN",
+    "sRole": "MSW, RD, RN",
+    "pathway": ""
   }
 ```
-
 
 #### Facilities Data
 
@@ -76,6 +72,39 @@ Facilities are alphabetized by the **facilityName** key. Example key pairs in `f
   }
 ```
 
+#### Patients Data
+
+Patients are alphabetized by the **patientName** key (last name first). Example key pairs in `patients.json`:
+
+```
+{
+    "patientName": "Archuleta Borges, Alexandra",
+    "gender": "Female",
+    "genderabb": "F",
+    "age": "65",
+    "dob": "07/11/1955",
+    "telephone": "(357) 392-4576",
+    "initials": "AA",
+    "mpi": "3690495",
+    "firstName": "Alexandra",
+    "lastName": "Archuleta Borges",
+    "status": "Active",
+    "facility": "Cedar Valley Waverly Dialysis (02196)"
+  }
+```
+
+#### Reports Data
+
+Example key pairs in `reports.json`:
+
+```
+ {
+    "title": "Nutrition and Blood Test Results Report",
+    "description": "Single-patient view of monthly lab results and fluid information to provide to patients.",
+    "type": "Report"
+  }
+```
+
 #### Teammates Data
 
 Teammates are alphabetized by the **nameRole** key. Example key pairs in `teammates.json`:
@@ -87,23 +116,6 @@ Teammates are alphabetized by the **nameRole** key. Example key pairs in `teamma
     "role": "FA",
     "nameFirstLast": "Ruby Bickmore",
     "nameRole": "Ruby Bickmore, FA"
-  }
-```
-
-#### Care Activities Data
-
-Example key pairs in `care-activities.json`:
-
-```
-  {
-    "title": "Address patient barriers to return to Home modality",
-    "cc": "Modality, Care Coordination",
-    "cc1": "Modality",
-    "cc2": "Care Coordination",
-    "role": "RN",
-    "tm": "Geralt DiRivia, RN",
-    "sRole": "MSW, RD, RN",
-    "pathway": ""
   }
 ```
 
